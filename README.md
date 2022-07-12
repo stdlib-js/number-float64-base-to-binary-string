@@ -31,7 +31,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import toBinaryString from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float64-base-to-binary-string@esm/index.mjs';
+import toBinaryString from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float64-base-to-binary-string@v0.0.7-esm/index.mjs';
 ```
 
 #### toBinaryString( x )
@@ -97,7 +97,7 @@ str = toBinaryString( -Infinity );
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
 import round from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-round@esm/index.mjs';
 import pow from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-pow@esm/index.mjs';
-import toBinaryString from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float64-base-to-binary-string@esm/index.mjs';
+import toBinaryString from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float64-base-to-binary-string@v0.0.7-esm/index.mjs';
 
 var frac;
 var sign;
