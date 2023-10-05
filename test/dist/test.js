@@ -37,10 +37,10 @@ var NUM_SIGNIFICAND_BITS = 52;
 
 // FIXTURES //
 
-var small = require( './../..xtures/julia/bits_1e-200_1e-308.json' );
-var medium = require( './../..xtures/julia/bits_-1e3_1e3.json' );
-var large = require( './../..xtures/julia/bits_1e200_1e308.json' );
-var subnormal = require( './../..xtures/julia/bits_1e-308_5e-324.json' );
+var small = require( './../fixtures/julia/bits_1e-200_1e-308.json' );
+var medium = require( './../fixtures/julia/bits_-1e3_1e3.json' );
+var large = require( './../fixtures/julia/bits_1e200_1e308.json' );
+var subnormal = require( './../fixtures/julia/bits_1e-308_5e-324.json' );
 
 
 // TESTS //
