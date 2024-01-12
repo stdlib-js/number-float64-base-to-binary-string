@@ -154,6 +154,13 @@ for ( i = 0; i < 100; i++ ) {
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   <span class="package-name">[`@stdlib/number-float64/base/from-binary-string`][@stdlib/number/float64/base/from-binary-string]</span><span class="delimiter">: </span><span class="description">create a double-precision floating-point number from a literal bit representation.</span>
+-   <span class="package-name">[`@stdlib/number-float32/base/to-binary-string`][@stdlib/number/float32/base/to-binary-string]</span><span class="delimiter">: </span><span class="description">return a string giving the literal bit representation of a single-precision floating-point number.</span>
+
 </section>
 
 <!-- /.related -->
@@ -230,6 +237,14 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [ieee754]: https://en.wikipedia.org/wiki/IEEE_754-1985
 
 [subnormals]: https://en.wikipedia.org/wiki/Denormal_number
+
+<!-- <related-links> -->
+
+[@stdlib/number/float64/base/from-binary-string]: https://github.com/stdlib-js/number-float64-base-from-binary-string
+
+[@stdlib/number/float32/base/to-binary-string]: https://github.com/stdlib-js/number-float32-base-to-binary-string
+
+<!-- </related-links> -->
 
 </section>
 
