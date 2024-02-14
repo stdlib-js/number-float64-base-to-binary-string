@@ -42,6 +42,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import toBinaryString from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float64-base-to-binary-string@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/number-float64-base-to-binary-string/tags). For example,
+
+```javascript
 import toBinaryString from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float64-base-to-binary-string@v0.2.0-esm/index.mjs';
 ```
 
@@ -108,7 +113,7 @@ str = toBinaryString( -Infinity );
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
 import round from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-round@esm/index.mjs';
 import pow from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-pow@esm/index.mjs';
-import toBinaryString from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float64-base-to-binary-string@v0.2.0-esm/index.mjs';
+import toBinaryString from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float64-base-to-binary-string@esm/index.mjs';
 
 var frac;
 var sign;
